@@ -1,4 +1,4 @@
-O **Índice de Atividade Econômica do Rio** (IAE-Rio) é divulgado mensalmente no **Observatório Econômico do Rio** e tem por objetivo acompanhar o comportamento da economia carioca. A motivação principal é ter um dado de mais alta frequência sobre a atividade econômica do Município do Rio de Janeiro. 
+O **Índice de Atividade Econômica do Rio** (IAE-Rio) é divulgado mensalmente no **Observatório Econômico do Rio** (https://observatorioeconomico.rio/) e tem por objetivo acompanhar o comportamento da economia carioca. A motivação principal é ter um dado de mais alta frequência sobre a atividade econômica do Município do Rio de Janeiro. 
 
 Para tal, dados da Pesquisa Mensal de Serviços (PMS) e da Pesquisa Mensal do Comércio (PMC) são extraídos através da API Sidra (IBGE, https://apisidra.ibge.gov.br/). Dados de arrecadação de Imposto sobre Circulação de Mercadorias e Serviços (ICMS) são obtidos junto à Secretaria de Estado de Fazenda do Rio de Janeiro (SEFAZ, http://www.fazenda.rj.gov.br/sefaz) e dados de Imposto Sobre Serviços (ISS) são obtidos junto à Secretaria Municipal de Fazenda e Planejamento do Rio de Janeiro.
 
